@@ -1,5 +1,5 @@
-# 👋 Hi, We are FinLab SA
-👀 We are the Financial Innovation Lab of South Africa! We are based out of the University of Cape Town and are sponsored by the Algorand Foundation. We are a team of the brighest minds tackling innovation in the fintech industry. 
+# 👋 Hi, from the Hub 
+👀 We are the Financial Innovation Hub of South Africa! We are based out of the University of Cape Town and are sponsored by the Algorand Foundation. We are a team of the brighest minds tackling innovation in the fintech industry. 
 <ul>
 We are broken into 3 parts:
   
